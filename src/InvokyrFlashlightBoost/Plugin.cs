@@ -11,7 +11,7 @@ namespace InvokyrFlashlightBoost
     {
         public const string PluginGuid = "com.darkharasho.invokyr.flashlightboost";
         public const string PluginName = "InvokyrFlashlightBoost";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         internal static new ManualLogSource Log;
         internal static ConfigEntry<float> Diameter;

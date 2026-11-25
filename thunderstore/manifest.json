@@ -1,7 +1,9 @@
 {
     "name": "InvokyrFlashlightBoost",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/darkharasho/invokyr-flashlight-boost",
     "description": "A wider, brighter and optionally longer flashlight beam in Invokyr, without the shadow your held item casts across it. Client-side: only changes what you see.",
-    "dependencies": []
+    "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP-6.0.788"
+    ]
 }
